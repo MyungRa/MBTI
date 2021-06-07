@@ -1,0 +1,1 @@
+npm run build -> 네트리파이 -> deploys -> 새로운 build 폴더 드래그
